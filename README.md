@@ -1,4 +1,4 @@
-Here is a professional and structured `README.md` file for your **Hospital Patient Care Operations Analytics** project, ready to be added to your GitHub repository:
+# Hospital patients care Operations Analytics using MySQL
 
 ```markdown
 # Hospital Patient Care Operations Analytics (CarePlus Hospital)
@@ -93,8 +93,7 @@ The project is divided into structured sprints and analytical modules:
 
 1. Clone the repository to your local machine:
 ```bash
-git clone [https://github.com/your-username/hospital-patient-care-operations-analytics.git](https://github.com/your-username/hospital-patient-care-operations-analytics.git)
-
+git clone [https://github.com/Prashanth2792/HOSPITAL-PATIENTS-CARE-OPERATIONS-ANALYTICS.git]
 ```
 
 
